@@ -85,14 +85,4 @@ POST Method :  http://localhost:8080/swagger-ui/index.html#/products
 
 
 
- <!-- Acknowledgments -->
-## Acknowledgments
-- Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
-
-<!-- Contact -->
-## Contact
-For questions or feedback, please contact : Rebel Sk
-- Mail Id : iamrebelsk@gmail.com
-
-<h1 align="center">Thank You...<h1>
-<h3 align = "center"> ***********************************************************<h3>
+ 
